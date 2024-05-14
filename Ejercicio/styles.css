@@ -1,0 +1,15 @@
+/* Estilo para la transición suave del color de fondo */
+body {
+    transition: background-color 0.5s ease-in-out;
+  }
+  
+  /* Estilo para el color de fondo azul */
+  .bg-blue {
+    background-color: #007bff;
+  }
+  
+  /* Estilo para el color de fondo verde */
+  .bg-green {
+    background-color: #28a745;
+  }
+  
